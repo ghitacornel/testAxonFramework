@@ -17,6 +17,7 @@ import java.util.List;
 import java.util.UUID;
 import java.util.concurrent.CompletableFuture;
 
+// facade for all endpoints
 @RestController
 @RequiredArgsConstructor
 public class OrderRestEndpoint {
