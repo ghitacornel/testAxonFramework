@@ -27,6 +27,7 @@
             </dependency>
 
             <!-- AXON -->
+            <!-- http://localhost:8024/#commands -->
             <dependency>
                 <groupId>org.axonframework</groupId>
                 <artifactId>axon-bom</artifactId>
